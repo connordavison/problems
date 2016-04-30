@@ -1,1 +1,1 @@
-Counts how many elements in an array occur `n` times.
+Counts how many distinct elements in an array occur `n` times.
